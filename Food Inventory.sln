@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Food Inventory", "Food Inventory\Food Inventory.csproj", "{92FD449C-0F80-4F31-8E23-ABF63238135C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FI_Setup", "FI_Setup\FI_Setup.vdproj", "{9C2B7DE2-65E4-40C8-AC21-86E83C5161C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92FD449C-0F80-4F31-8E23-ABF63238135C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92FD449C-0F80-4F31-8E23-ABF63238135C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92FD449C-0F80-4F31-8E23-ABF63238135C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92FD449C-0F80-4F31-8E23-ABF63238135C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C2B7DE2-65E4-40C8-AC21-86E83C5161C6}.Debug|Any CPU.ActiveCfg = Release
+		{9C2B7DE2-65E4-40C8-AC21-86E83C5161C6}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89393597-8038-41C4-81C2-64A4793E95FB}
+	EndGlobalSection
+EndGlobal

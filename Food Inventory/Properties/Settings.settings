@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Food_Inventory.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="settingsState" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="accessTableName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">category_table</Value>
+    </Setting>
+    <Setting Name="dataSourcePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C://</Value>
+    </Setting>
+    <Setting Name="phoneNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0301-9380999</Value>
+    </Setting>
+    <Setting Name="currentDate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1/1/2022</Value>
+    </Setting>
+    <Setting Name="slipNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
